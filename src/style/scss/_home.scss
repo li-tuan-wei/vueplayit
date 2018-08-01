@@ -1,0 +1,53 @@
+
+  .home-container {
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+  }
+
+  .home-header {
+    background-color: #61738a;
+    color: #333;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: content-box;
+    padding: 0px;
+  }
+
+  .home-aside {
+    background-color: #ECECEC;
+  }
+
+  .home-main {
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;;
+  }
+
+  .home_title {
+    color: #fff;
+    font-size: 22px;
+    display: inline;
+    margin-left: 8px;
+  }
+
+  .home_userinfo {
+    color: #fff;
+    cursor: pointer;
+  }
+
+  .home_userinfoContainer {
+    display: inline;
+    margin-right: 20px;
+  }
+
+  .el-submenu .el-menu-item {
+    width: 180px;
+    min-width: 175px;
+  }
