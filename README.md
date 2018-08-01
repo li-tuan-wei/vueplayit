@@ -1,2 +1,2 @@
 # vueplayit
-Vue 实现的权限管理系统
+Vue 前端平台
